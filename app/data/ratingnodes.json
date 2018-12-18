@@ -1,0 +1,44 @@
+{
+    "nodes": {
+        "1_star" : {
+            "id": "1_star",
+            "name": "1 ★",
+            "weight": 1,
+            "rating": true,
+            "fill": "#ff8b94",
+            "stroke": "#ff8b94"
+        },
+        "2_star" : {
+            "id": "2_star",
+            "name": "2 ★",
+            "weight": 1,
+            "rating": true,
+            "fill": "#ffaaa5",
+            "stroke": "#ffaaa5"
+        },
+        "3_star" : {
+            "id": "3_star",
+            "name": "3 ★",
+            "weight": 1,
+            "rating": true,
+            "fill": "#ffd3b6",
+            "stroke": "#ffd3b6"
+        },
+        "4_star" : {
+            "id": "4_star",
+            "name": "4 ★",
+            "weight": 1,
+            "rating": true,
+            "fill": "#dcedc1",
+            "stroke": "#dcedc1"
+        },
+        "5_star" : {
+            "id": "5_star",
+            "name": "5 ★",
+            "weight": 1,
+            "rating": true,
+            "fill": "#a8e6cf",
+            "stroke": "#a8e6cf"
+        }
+    }
+}

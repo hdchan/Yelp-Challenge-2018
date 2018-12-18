@@ -1,0 +1,92 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#centercontainer {
+  max-width: 960px;
+  /* width: calc(100% - 400px); */
+  height: 100%;
+}
+
+#map, #graphoverlay {
+  width: 100%;
+  height: 100%;
+}
+
+#graphoverlay {
+  position: absolute;
+  /* background-color: rgba(255, 0, 0, 0.3); */
+  /*dim the background*/
+  display: none;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+
+#sidepanel {
+  width: 400px;
+  background: white;
+  position: fixed;
+  right: 0;
+  top:0 ;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.sidepanel_container {
+  width: 100%;
+}
+
+#restaurantdetail {
+  height: 100%;
+}
+
+#sidepanel .business {
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+
+#sidepanel .business:hover {
+  cursor: pointer;
+  background: grey;
+  color: white;
+}
+
+/* Projection */
+#toggle {
+  position: absolute;
+  right: 15px; top: 15px;
+  z-index: 100;
+}
+
+.map path {
+  fill: #eee;
+  stroke: #fff;
+  stroke-width: 2;
+}
+
+.links line {
+  stroke: #679;
+  stroke-opacity: 0.25;
+}
+
+.nodes circle {
+  fill: #679;
+  stroke: #235;
+  stroke-width: 2;
+}
+
+/* leaflet */
+/* .node {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-width: 1.5px;
+} */

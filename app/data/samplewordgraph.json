@@ -1,0 +1,128 @@
+[
+      {
+        "source": "1_star",
+        "target": "Bathroom",
+        "sentiment_score": 0.1,
+        "value": "0"
+      },
+      {
+        "source": "2_star",
+        "target": "Bathroom",
+        "sentiment_score": 0.1,
+        "value": "0"
+      },
+      {
+        "source": "3_star",
+        "target": "Service",
+        "sentiment_score": 0.4,
+        "value": "0"
+      },
+      {
+        "source": "3_star",
+        "target": "Garlic knots",
+        "sentiment_score": 0.9,
+        "value": "0"
+      },
+      {
+        "source": "4_star",
+        "target": "Garlic knots",
+        "sentiment_score": 0.7,
+        "value": "0"
+      },
+      {
+        "source": "1_star",
+        "target": "Garlic knots",
+        "sentiment_score": 0.7,
+        "value": "0"
+      },
+      {
+        "source": "2_star",
+        "target": "Garlic knots",
+        "sentiment_score": 0.7,
+        "value": "0"
+      },
+      {
+        "source": "5_star",
+        "target": "Garlic knots",
+        "sentiment_score": 0.7,
+        "value": "0"
+      },
+      {
+        "source": "3_star",
+        "target": "Pizza",
+        "value": "0"
+      },
+      {
+        "source": "4_star",
+        "target": "Pizza",
+        "sentiment_score": 0.9,
+        "value": "0"
+      },
+      {
+        "source": "5_star",
+        "target": "Pizza",
+        "sentiment_score": 0.9,
+        "value": "0"
+      },
+      {
+        "source": "5_star",
+        "target": "Price",
+        "sentiment_score": 0.5,
+        "value": "0"
+      },
+      {
+        "source": "2_star",
+        "target": "Sticky",
+        "sentiment_score": 0.2,
+        "value": "0"
+      },
+      {
+        "source": "2_star",
+        "target": "Sticky",
+        "sentiment_score": 0.2,
+        "value": "0"
+      },
+      {
+        "source": "2_star",
+        "target": "Sticky",
+        "sentiment_score": 0.2,
+        "value": "0"
+      },
+      {
+        "source": "2_star",
+        "target": "Rude",
+        "sentiment_score": 0.2,
+        "value": "0"
+      },
+      {
+        "source": "1_star",
+        "target": "Service",
+        "sentiment_score": 0.2,
+        "value": "0"
+      },
+      {
+        "source": "1_star",
+        "target": "Too hot",
+        "sentiment_score": 0.2,
+        "value": "0"
+      },
+      {
+        "source": "1_star",
+        "target": "Smells",
+        "sentiment_score": 0.2,
+        "value": "0"
+      },
+      {
+        "source": "3_star",
+        "target": "Budget",
+        "sentiment_score": 0.8,
+        "value": "0"
+      },
+      {
+        "source": "4_star",
+        "target": "Taste",
+        "sentiment_score": 0.8,
+        "value": "0"
+      }
+]
+
