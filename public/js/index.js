@@ -38,7 +38,7 @@ function setLoading(isLoading, callback) {
 
 function dismissToolTip() {
     $("#starttooltip").css("display", "none");
-    $("#wordgraph").css("display", "inline");
+    // $("#wordgraph").css("display", "inline");
 }
 
 function removeRestaurantDetail() {
